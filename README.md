@@ -1,12 +1,12 @@
-# Cyber Tools 📦
+# Cyber-Cross Tools 📦
 
 A simple toolbox with three utilities:  
 **Tip Calculator** • **Unit Converter** • **Random Name Picker**
 
-Built with HTML/CSS/JavaScript. Dark theme, responsive, works offline. [cite:41]
+Built with HTML/CSS/JavaScript. Dark theme, responsive, works offline.
 
 ## Live Demo
-[https://cyber-cross.github.io/cyber-tools/](https://cyber-cross.github.io/cyber-tools/)
+[https://cyber-cross.github.io/tools-page/](https://cyber-cross.github.io/tools-page/)
 
 ## Features
 - **Tip Calculator**: Enter bill, tip %, people → instant per-person split  
@@ -16,10 +16,10 @@ Built with HTML/CSS/JavaScript. Dark theme, responsive, works offline. [cite:41]
 ## Tech Stack
 - HTML5  
 - CSS3 (Grid, custom properties)  
-- Vanilla JavaScript (no frameworks)  
+- JavaScript  
 
 ## Quick Start
-1. Clone: `git clone https://github.com/Cyber-Cross/cyber-tools.git`  
+1. Clone: `git clone https://github.com/Cyber-Cross/tools-page.git`  
 2. Open `index.html` in any browser  
 3. Edit & refresh  
 
