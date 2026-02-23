@@ -18,13 +18,8 @@ Built with HTML/CSS/JavaScript. Dark theme, responsive, works offline.
 - CSS3 (Grid, custom properties)  
 - JavaScript  
 
-## Quick Start
-1. Clone: `git clone https://github.com/Cyber-Cross/tools-page.git`  
-2. Open `index.html` in any browser  
-3. Edit & refresh  
-
 ## Deployed on GitHub Pages
-Free hosting, auto-deploys on push. See [GitHub Pages docs](https://docs.github.com/en/pages). [cite:41]
+Free hosting, auto-deploys on push. See [GitHub Pages docs](https://docs.github.com/en/pages).
 
 ## License
 MIT © Cyber-Cross
