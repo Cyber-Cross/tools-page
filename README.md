@@ -19,7 +19,6 @@ Built with HTML/CSS/JavaScript. Dark theme, responsive, works offline.
 - JavaScript  
 
 ## Deployed on GitHub Pages
-Free hosting, auto-deploys on push. See [GitHub Pages docs](https://docs.github.com/en/pages).
 
 ## License
 MIT © Cyber-Cross
